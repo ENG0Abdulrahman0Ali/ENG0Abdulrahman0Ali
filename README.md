@@ -4,14 +4,14 @@
   
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Abdulrahman+Ali+Shaban;Specialist+Data+Analyst+;FCI+-+ZU+|+Decision+Support;Digital+Egypt+Pioneers+Initiative+Trainee;Welcome+to+my+GitHub!)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Abdulrahman+Ali+Shaban;Specialist+Data+Analyst+;FCI+-+ZU+|+Decision+Support;DEPI+Trainee;Welcome+to+my+GitHub!)
 
 </div>
 
 ---
 ## 🚀 About Me
 
-<img align="right" alt="Data Analysis" width="150" src="https://user-images.githubusercontent.com/74038190/190828551-7f98501e-c4a0-40e1-b4ec-c2c8f94ec601.gif">
+<img align="right" alt="Data Analysis" width="125" src="https://user-images.githubusercontent.com/74038190/190828551-7f98501e-c4a0-40e1-b4ec-c2c8f94ec601.gif">
 
 ```typescript
 const Abdulrahman = {

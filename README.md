@@ -122,7 +122,7 @@ const Abdulrahman = {
   <img src="https://github.com/ENG0Abdulrahman0Ali/ENG0Abdulrahman0Ali/blob/main/images/DIGITOPIA%20CER%20.png" alt="DIGITOPIA Stage Two Finalist Certificate" width="600"/>
 </div>
 
-
+git pull origin main --no-rebase
 ### 🧠 Academic Focus & Foundational Skills
 
 #### Core Computer Science & Programming

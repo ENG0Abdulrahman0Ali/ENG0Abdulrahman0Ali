@@ -1,6 +1,6 @@
-# 👋 Welcome to My Digital Universe
-
 <div align="center">
+# 👋 Welcome to My Digital Universe
+</div>
   
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
@@ -10,8 +10,6 @@
 
 ---
 ## 🚀 About Me
-
-<img align="right" alt="Data Analysis" width="125" src="https://user-images.githubusercontent.com/74038190/190828551-7f98501e-c4a0-40e1-b4ec-c2c8f94ec601.gif">
 
 ```typescript
 const Abdulrahman = {

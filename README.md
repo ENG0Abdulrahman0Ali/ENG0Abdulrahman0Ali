@@ -5,6 +5,12 @@
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Abdulrahman+Ali+Shaban;Specialist+Data+Analyst;FCI+-+ZU+|+Decision+Support;DEPI+Trainee;Welcome+to+my+GitHub!)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Abdulrahman+Ali+Shaban;Specialist+Data+Analyst;FCI+-+ZU+|+Decision+Support;DEPI+Trainee;Welcome+to+my+GitHub!"/>
+</p>
+
+
 </div>
 
 ---

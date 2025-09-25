@@ -110,17 +110,17 @@ const Abdulrahman = {
 <div align="center">
 
 ### 🎓 Key Programs & Education
-[![DEPI Scholar](https://img.shields.io/badge/DEPI_Scholar-Google_Data_Analytics-0077B5?style=for-the-badge&logo=google&logoColor=white)]()
-[![FCI-ZU](https://img.shields.io/badge/FCI_ZU-Decision_Support_Dept-FF6B6B?style=for-the-badge&logo=universityofillinois&logoColor=white)]()
-[![ITIDA Freelancing](https://img.shields.io/badge/ITIDA_Freelancing_Course-GIGs_Round_16-009A93?style=for-the-badge&logo=upwork&logoColor=white)]()
-
-### 🎓 Key Programs & Education
 [![DEPI Scholar](https://img.shields.io/badge/DEPI_SCHOLAR-00599C?style=for-the-badge&logo=google&logoColor=white)]()
 [![FCI-ZU](https://img.shields.io/badge/FCI_ZU-DECISION_SUPPORT_DEPT-CC2927?style=for-the-badge&logo=universityofillinois&logoColor=white)]()
 [![ITIDA Freelancing](https://img.shields.io/badge/ITIDA_FREELANCING_COURSE-2C974B?style=for-the-badge&logo=upwork&logoColor=white)]()
 
+
 ### 🏅 Competitions & Recognition
-[![DIGITOPIA](https://img.shields.io/badge/DIGITOPIA_Competition-Stage_Two_Finalist-9B59B6?style=for-the-badge&logo=python&logoColor=white)]()
+  [![DIGITOPIA](https://img.shields.io/badge/DIGITOPIA_COMPETITION-STAGE_TWO_FINALIST-DAA520?style=for-the-badge&logo=python&logoColor=white)]()
+  <br/>
+  <br/>
+  <img src="https://github.com/ENG0Abdulrahman0Ali/ENG0Abdulrahman0Ali/blob/main/images/DIGITOPIA%20CER%20.png" alt="DIGITOPIA Stage Two Finalist Certificate" width="600"/>
+</div>
 
 
 ### 🧠 Academic Focus & Foundational Skills

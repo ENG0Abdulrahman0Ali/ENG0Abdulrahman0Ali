@@ -54,7 +54,6 @@ const Abdulrahman = {
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -114,6 +113,11 @@ const Abdulrahman = {
 [![DEPI Scholar](https://img.shields.io/badge/DEPI_Scholar-Google_Data_Analytics-0077B5?style=for-the-badge&logo=google&logoColor=white)]()
 [![FCI-ZU](https://img.shields.io/badge/FCI_ZU-Decision_Support_Dept-FF6B6B?style=for-the-badge&logo=universityofillinois&logoColor=white)]()
 [![ITIDA Freelancing](https://img.shields.io/badge/ITIDA_Freelancing_Course-GIGs_Round_16-009A93?style=for-the-badge&logo=upwork&logoColor=white)]()
+
+### 🎓 Key Programs & Education
+[![DEPI Scholar](https://img.shields.io/badge/DEPI_SCHOLAR-00599C?style=for-the-badge&logo=google&logoColor=white)]()
+[![FCI-ZU](https://img.shields.io/badge/FCI_ZU-DECISION_SUPPORT_DEPT-CC2927?style=for-the-badge&logo=universityofillinois&logoColor=white)]()
+[![ITIDA Freelancing](https://img.shields.io/badge/ITIDA_FREELANCING_COURSE-2C974B?style=for-the-badge&logo=upwork&logoColor=white)]()
 
 ### 🏅 Competitions & Recognition
 [![DIGITOPIA](https://img.shields.io/badge/DIGITOPIA_Competition-Stage_Two_Finalist-9B59B6?style=for-the-badge&logo=python&logoColor=white)]()

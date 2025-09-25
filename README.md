@@ -63,7 +63,6 @@ const Abdulrahman = {
 ```
 
 ## 🎯 Featured Projects
----
 <div align="center">
 <table>
   <tr>
@@ -122,31 +121,32 @@ const Abdulrahman = {
   <img src="https://github.com/ENG0Abdulrahman0Ali/ENG0Abdulrahman0Ali/blob/main/images/DIGITOPIA%20CER%20.png" alt="DIGITOPIA Stage Two Finalist Certificate" width="600"/>
 </div>
 
-### 🧠 Academic Focus & Foundational Skills
+<br/>
+<br/>
+
+## 🧠 Academic Focus & Foundational Skills
 <div align="center">
 
-#### Core Computer Science & Programming
+#### 🪴Core Computer Science & Programming
 [![Intro to C++](https://img.shields.io/badge/Intro_to_C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![C++ OOP](https://img.shields.io/badge/C++_Object_Oriented_Programming-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
 [![C++ Data Structures](https://img.shields.io/badge/Data_Structures-FF9900?style=for-the-badge&logo=codeforces&logoColor=white)]()
 [![C++ Algorithms](https://img.shields.io/badge/Algorithms-FF9900?style=for-the-badge&logo=codeforces&logoColor=white)]()
-[![Database Systems](https://img.shields.io/badge/Database_Systems-3366CC?style=for-the-badge&logo=oracle&logoColor=white)]()
 [![Computer Graphics ((JAVA)(NetBeans))](https://img.shields.io/badge/Computer_Graphics_Concepts-5382A1?style=for-the-badge&logo=java&logoColor=white)]()
 
-#### Decision Science & Strategy (DS)
+#### 🎯Decision Science & Strategy (DS)
 [![Statistics](https://img.shields.io/badge/Statistics_for_Data_Analysis-008080?style=for-the-badge&logo=sciencedirect&logoColor=white)]()
+[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence_Fundamentals-F7DF1E?style=for-the-badge&logo=tensorflow&logoColor=black)]()
+[![Database Systems](https://img.shields.io/badge/Database_Systems-3366CC?style=for-the-badge&logo=oracle&logoColor=white)]()
 [![Operation Research](https://img.shields.io/badge/Operation_Research_&_Modeling-FF4500?style=for-the-badge&logo=target&logoColor=white)]()
 [![System Analysis](https://img.shields.io/badge/System_Analysis_&_Design-00FF7F?style=for-the-badge&logo=microsoftexcel&logoColor=white)]()
 [![BIG DATA Concepts](https://img.shields.io/badge/BIG_DATA_Concepts-FF6B6B?style=for-the-badge&logo=apachespark&logoColor=white)]()
 [![MultiMedia Systems](https://img.shields.io/badge/MultiMedia_Systems-9B59B6?style=for-the-badge&logo=blender&logoColor=white)]()
 
-
-
-#### Advanced IT & Infrastructure
+#### 🔒Advanced IT & Infrastructure
 [![Cloud Computing (Azure)](https://img.shields.io/badge/Cloud_Computing_with_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)]()
 [![Computer Networks](https://img.shields.io/badge/Computer_Networking_Concepts-3498DB?style=for-the-badge&logo=cisco&logoColor=white)]()
 [![Cyber Security](https://img.shields.io/badge/Cyber_Security_Awareness-2C3E50?style=for-the-badge&logo=hackthebox&logoColor=white)]()
-[![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence_Fundamentals-F7DF1E?style=for-the-badge&logo=tensorflow&logoColor=black)]()
 
 </div>
 ```

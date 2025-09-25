@@ -1,10 +1,12 @@
 <div align="center">
-# 👋 Welcome to My Digital Universe
+  <h1>👋 Welcome to My Digital Universe</h1>
 </div>
   
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Abdulrahman+Ali+Shaban;Specialist+Data+Analyst+;FCI+-+ZU+|+Decision+Support;DEPI+Trainee;Welcome+to+my+GitHub!)
+<div align="center">
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Abdulrahman+Ali+Shaban;Specialist+Data+Analyst;FCI+-+ZU+|+Decision+Support;DEPI+Trainee;Welcome+to+my+GitHub!)
+</div>
 
 </div>
 
@@ -15,10 +17,10 @@
 const Abdulrahman = {
     name: "I'm Abdulrahman Ali Shaban",
     role: "Data Analyst Specialist ",
-    College: "FCI-ZU | Decision Support (DS) "
+    college: "FCI-ZU | Decision Support (DS) "
     location: "Kafr Saqr, Sharqia, Egypt 🇪🇬", 
     focus: [ "Data Cleaning & Preparation" ,"Data Visualization" ,"Business Intelligence","Predictive Analytics"],
-    askMeAbout: ["BI Dashboard Design & Performance Metrics	", "Data Quality & Feature Engineering", "Predictive Modeling & RCA","Business Optimization & Forecasting"],
+    askMeAbout: ["Data Quality & Feature Engineering", "Predictive Modeling & RCA","Business Optimization & Forecasting"],
     technologies: {
         dataStack: ["Python", "SQL", "R", "Excel", "Oracle"], 
         libraries: ["Pandas", "NumPy", "Scikit-learn"], 

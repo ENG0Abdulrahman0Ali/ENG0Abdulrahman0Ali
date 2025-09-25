@@ -122,8 +122,8 @@ const Abdulrahman = {
   <img src="https://github.com/ENG0Abdulrahman0Ali/ENG0Abdulrahman0Ali/blob/main/images/DIGITOPIA%20CER%20.png" alt="DIGITOPIA Stage Two Finalist Certificate" width="600"/>
 </div>
 
-git pull origin main --no-rebase
 ### 🧠 Academic Focus & Foundational Skills
+<div align="center">
 
 #### Core Computer Science & Programming
 [![Intro to C++](https://img.shields.io/badge/Intro_to_C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)]()
@@ -150,8 +150,9 @@ git pull origin main --no-rebase
 
 </div>
 ```
-
-## 🤝 Let's Connect
+<div align="center">
+  <h1>🤝 Let's Connect</h1>
+</div>
 
 <div align="center">
 
@@ -168,7 +169,7 @@ git pull origin main --no-rebase
 
 <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-### Show some ❤️ by starring some repositories!
+### ⚠️ If my analysis solves a problem for you, a star is a valuable recommendation for future opportunities!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ENG0Abdulrahman0Ali&color=blueviolet&style=for-the-badge)
 
